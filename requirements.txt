@@ -1,0 +1,14 @@
+# Vision-Sentry — Python dependencies
+# Victor Dennis Wambugu | DCF-01-0184/2025 | Zetech University
+
+# Core AI & vision
+ultralytics>=8.0.0          # YOLOv8 — install separately if GPU not available
+opencv-python>=4.8.0        # video capture + frame processing
+Pillow>=10.0.0              # OpenCV→Tkinter image bridge
+
+# Optional: GPU acceleration
+# torch>=2.0.0              # auto-installed with ultralytics on GPU machines
+# torchvision>=0.15.0
+
+# Standard library modules used (no install needed):
+#   tkinter, json, uuid, time, datetime, collections, dataclasses, os, argparse
