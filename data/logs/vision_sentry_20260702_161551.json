@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "system": "Vision-Sentry",
+    "author": "Victor Dennis Wambugu",
+    "student_id": "DCF-01-0184/2025",
+    "session_start": "2026-07-02T16:14:59",
+    "export_time": "2026-07-02T16:15:51",
+    "total_entries": 1
+  },
+  "summary": {
+    "total_events": 1,
+    "by_priority": {
+      "MONITOR": 1
+    },
+    "by_label": {
+      "Person": 1
+    },
+    "avg_confidence": 0.651,
+    "session_start": "2026-07-02T16:14:59"
+  },
+  "events": [
+    {
+      "uid": "e8139c76",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.6514,
+      "priority": "MONITOR",
+      "bbox": [
+        8,
+        57,
+        638,
+        479
+      ],
+      "center": [
+        323,
+        268
+      ],
+      "frame_id": 1,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T16:15:50.839",
+      "epoch": 1782998150.8397045
+    }
+  ]
+}

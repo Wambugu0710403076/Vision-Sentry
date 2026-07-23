@@ -1,0 +1,2504 @@
+{
+  "meta": {
+    "system": "Vision-Sentry",
+    "author": "Victor Dennis Wambugu",
+    "student_id": "DCF-01-0184/2025",
+    "session_start": "2026-07-16T02:10:16",
+    "export_time": "2026-07-16T02:11:41",
+    "total_entries": 118
+  },
+  "summary": {
+    "total_events": 118,
+    "by_priority": {
+      "BREACH": 114,
+      "SUSPICIOUS": 4
+    },
+    "by_label": {
+      "Person": 114,
+      "Suitcase": 2,
+      "Bag": 2
+    },
+    "avg_confidence": 0.829,
+    "session_start": "2026-07-16T02:10:16"
+  },
+  "events": [
+    {
+      "uid": "1480f1de",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8682,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        111,
+        366,
+        479
+      ],
+      "center": [
+        193,
+        295
+      ],
+      "frame_id": 115,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:38.933",
+      "epoch": 1784157098.9333966
+    },
+    {
+      "uid": "9306bf50",
+      "label": "Suitcase",
+      "class_id": 28,
+      "confidence": 0.4718,
+      "priority": "SUSPICIOUS",
+      "bbox": [
+        0,
+        230,
+        182,
+        478
+      ],
+      "center": [
+        91,
+        354
+      ],
+      "frame_id": 114,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:38.652",
+      "epoch": 1784157098.6526222
+    },
+    {
+      "uid": "61617416",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8393,
+      "priority": "BREACH",
+      "bbox": [
+        15,
+        112,
+        369,
+        479
+      ],
+      "center": [
+        192,
+        295
+      ],
+      "frame_id": 114,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:38.652",
+      "epoch": 1784157098.6524444
+    },
+    {
+      "uid": "05acc807",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7789,
+      "priority": "BREACH",
+      "bbox": [
+        34,
+        109,
+        366,
+        479
+      ],
+      "center": [
+        200,
+        294
+      ],
+      "frame_id": 113,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:38.359",
+      "epoch": 1784157098.3597453
+    },
+    {
+      "uid": "5f8a66af",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8848,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        110,
+        365,
+        479
+      ],
+      "center": [
+        191,
+        294
+      ],
+      "frame_id": 112,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:38.094",
+      "epoch": 1784157098.0946093
+    },
+    {
+      "uid": "17d1e078",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8503,
+      "priority": "BREACH",
+      "bbox": [
+        16,
+        108,
+        363,
+        479
+      ],
+      "center": [
+        189,
+        293
+      ],
+      "frame_id": 111,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:37.828",
+      "epoch": 1784157097.8280978
+    },
+    {
+      "uid": "2bd58188",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8793,
+      "priority": "BREACH",
+      "bbox": [
+        17,
+        109,
+        361,
+        479
+      ],
+      "center": [
+        189,
+        294
+      ],
+      "frame_id": 110,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:37.560",
+      "epoch": 1784157097.560418
+    },
+    {
+      "uid": "bc18a144",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8645,
+      "priority": "BREACH",
+      "bbox": [
+        22,
+        109,
+        362,
+        479
+      ],
+      "center": [
+        192,
+        294
+      ],
+      "frame_id": 109,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:37.292",
+      "epoch": 1784157097.2920022
+    },
+    {
+      "uid": "bb9dc619",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.847,
+      "priority": "BREACH",
+      "bbox": [
+        14,
+        110,
+        360,
+        479
+      ],
+      "center": [
+        187,
+        294
+      ],
+      "frame_id": 108,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:37.008",
+      "epoch": 1784157097.008139
+    },
+    {
+      "uid": "c801e1b4",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8215,
+      "priority": "BREACH",
+      "bbox": [
+        29,
+        109,
+        361,
+        479
+      ],
+      "center": [
+        195,
+        294
+      ],
+      "frame_id": 107,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:36.726",
+      "epoch": 1784157096.7262704
+    },
+    {
+      "uid": "fdaf7857",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8447,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        104,
+        361,
+        479
+      ],
+      "center": [
+        189,
+        291
+      ],
+      "frame_id": 106,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:36.453",
+      "epoch": 1784157096.4532452
+    },
+    {
+      "uid": "466bc792",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8747,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        109,
+        361,
+        479
+      ],
+      "center": [
+        190,
+        294
+      ],
+      "frame_id": 105,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:36.163",
+      "epoch": 1784157096.163504
+    },
+    {
+      "uid": "c07f7435",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8982,
+      "priority": "BREACH",
+      "bbox": [
+        9,
+        109,
+        361,
+        479
+      ],
+      "center": [
+        185,
+        294
+      ],
+      "frame_id": 104,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:35.860",
+      "epoch": 1784157095.8603296
+    },
+    {
+      "uid": "d84dec33",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8328,
+      "priority": "BREACH",
+      "bbox": [
+        40,
+        107,
+        361,
+        479
+      ],
+      "center": [
+        200,
+        293
+      ],
+      "frame_id": 103,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:35.589",
+      "epoch": 1784157095.589185
+    },
+    {
+      "uid": "8baf98b5",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.899,
+      "priority": "BREACH",
+      "bbox": [
+        23,
+        109,
+        361,
+        479
+      ],
+      "center": [
+        192,
+        294
+      ],
+      "frame_id": 102,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:35.283",
+      "epoch": 1784157095.2837036
+    },
+    {
+      "uid": "f4d3230d",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8756,
+      "priority": "BREACH",
+      "bbox": [
+        19,
+        109,
+        360,
+        479
+      ],
+      "center": [
+        189,
+        294
+      ],
+      "frame_id": 101,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:35.006",
+      "epoch": 1784157095.0068412
+    },
+    {
+      "uid": "6af29af5",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8488,
+      "priority": "BREACH",
+      "bbox": [
+        23,
+        109,
+        360,
+        479
+      ],
+      "center": [
+        191,
+        294
+      ],
+      "frame_id": 100,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:34.730",
+      "epoch": 1784157094.7308824
+    },
+    {
+      "uid": "db71dbf7",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8961,
+      "priority": "BREACH",
+      "bbox": [
+        21,
+        108,
+        361,
+        479
+      ],
+      "center": [
+        191,
+        293
+      ],
+      "frame_id": 99,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:34.465",
+      "epoch": 1784157094.465518
+    },
+    {
+      "uid": "45210444",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.851,
+      "priority": "BREACH",
+      "bbox": [
+        15,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        187,
+        293
+      ],
+      "frame_id": 98,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:34.191",
+      "epoch": 1784157094.1912978
+    },
+    {
+      "uid": "b21b4195",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.9008,
+      "priority": "BREACH",
+      "bbox": [
+        15,
+        109,
+        361,
+        479
+      ],
+      "center": [
+        188,
+        294
+      ],
+      "frame_id": 97,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:33.887",
+      "epoch": 1784157093.8872561
+    },
+    {
+      "uid": "e260b200",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8779,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        189,
+        293
+      ],
+      "frame_id": 96,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:33.620",
+      "epoch": 1784157093.6203828
+    },
+    {
+      "uid": "4bb3796f",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8565,
+      "priority": "BREACH",
+      "bbox": [
+        21,
+        109,
+        361,
+        478
+      ],
+      "center": [
+        191,
+        293
+      ],
+      "frame_id": 95,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:33.362",
+      "epoch": 1784157093.3622477
+    },
+    {
+      "uid": "4c6a501e",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8275,
+      "priority": "BREACH",
+      "bbox": [
+        11,
+        109,
+        361,
+        479
+      ],
+      "center": [
+        186,
+        294
+      ],
+      "frame_id": 94,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:33.104",
+      "epoch": 1784157093.104168
+    },
+    {
+      "uid": "4e6159d3",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.9015,
+      "priority": "BREACH",
+      "bbox": [
+        9,
+        108,
+        361,
+        479
+      ],
+      "center": [
+        185,
+        293
+      ],
+      "frame_id": 93,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:32.832",
+      "epoch": 1784157092.8327515
+    },
+    {
+      "uid": "594b630b",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8429,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        109,
+        360,
+        479
+      ],
+      "center": [
+        189,
+        294
+      ],
+      "frame_id": 92,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:32.532",
+      "epoch": 1784157092.5325577
+    },
+    {
+      "uid": "bc66a44d",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8707,
+      "priority": "BREACH",
+      "bbox": [
+        60,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        210,
+        293
+      ],
+      "frame_id": 91,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:32.231",
+      "epoch": 1784157092.231227
+    },
+    {
+      "uid": "5fdd1e90",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8953,
+      "priority": "BREACH",
+      "bbox": [
+        17,
+        108,
+        360,
+        478
+      ],
+      "center": [
+        188,
+        293
+      ],
+      "frame_id": 90,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:31.829",
+      "epoch": 1784157091.829238
+    },
+    {
+      "uid": "ca21ba61",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.9131,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        108,
+        361,
+        479
+      ],
+      "center": [
+        189,
+        293
+      ],
+      "frame_id": 89,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:31.512",
+      "epoch": 1784157091.512179
+    },
+    {
+      "uid": "c5c63917",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.9124,
+      "priority": "BREACH",
+      "bbox": [
+        15,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        187,
+        293
+      ],
+      "frame_id": 88,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:31.245",
+      "epoch": 1784157091.245929
+    },
+    {
+      "uid": "f1a5bf64",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8425,
+      "priority": "BREACH",
+      "bbox": [
+        34,
+        108,
+        361,
+        479
+      ],
+      "center": [
+        197,
+        293
+      ],
+      "frame_id": 87,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:30.968",
+      "epoch": 1784157090.9685717
+    },
+    {
+      "uid": "b6a25014",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.882,
+      "priority": "BREACH",
+      "bbox": [
+        14,
+        109,
+        360,
+        479
+      ],
+      "center": [
+        187,
+        294
+      ],
+      "frame_id": 86,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:30.695",
+      "epoch": 1784157090.6955817
+    },
+    {
+      "uid": "9eb90c2e",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8781,
+      "priority": "BREACH",
+      "bbox": [
+        19,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        189,
+        293
+      ],
+      "frame_id": 85,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:30.398",
+      "epoch": 1784157090.3982933
+    },
+    {
+      "uid": "b750fa8f",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8858,
+      "priority": "BREACH",
+      "bbox": [
+        16,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        188,
+        293
+      ],
+      "frame_id": 84,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:30.064",
+      "epoch": 1784157090.0646794
+    },
+    {
+      "uid": "186519c2",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8755,
+      "priority": "BREACH",
+      "bbox": [
+        24,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        192,
+        293
+      ],
+      "frame_id": 83,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:29.761",
+      "epoch": 1784157089.7618139
+    },
+    {
+      "uid": "c2df58ce",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8853,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        107,
+        360,
+        479
+      ],
+      "center": [
+        189,
+        293
+      ],
+      "frame_id": 82,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:29.482",
+      "epoch": 1784157089.4826431
+    },
+    {
+      "uid": "35b59ec5",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.9001,
+      "priority": "BREACH",
+      "bbox": [
+        16,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        188,
+        293
+      ],
+      "frame_id": 81,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:29.216",
+      "epoch": 1784157089.2164564
+    },
+    {
+      "uid": "78b0ea67",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8725,
+      "priority": "BREACH",
+      "bbox": [
+        8,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        184,
+        293
+      ],
+      "frame_id": 80,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:28.938",
+      "epoch": 1784157088.9386513
+    },
+    {
+      "uid": "a3ad290a",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8817,
+      "priority": "BREACH",
+      "bbox": [
+        8,
+        108,
+        360,
+        479
+      ],
+      "center": [
+        184,
+        293
+      ],
+      "frame_id": 79,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:28.665",
+      "epoch": 1784157088.6657085
+    },
+    {
+      "uid": "de85150e",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8586,
+      "priority": "BREACH",
+      "bbox": [
+        22,
+        108,
+        361,
+        479
+      ],
+      "center": [
+        191,
+        293
+      ],
+      "frame_id": 78,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:28.391",
+      "epoch": 1784157088.3916585
+    },
+    {
+      "uid": "f5f02e80",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8892,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        108,
+        360,
+        478
+      ],
+      "center": [
+        189,
+        293
+      ],
+      "frame_id": 77,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:28.143",
+      "epoch": 1784157088.1435792
+    },
+    {
+      "uid": "c04c563b",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8769,
+      "priority": "BREACH",
+      "bbox": [
+        16,
+        108,
+        360,
+        478
+      ],
+      "center": [
+        188,
+        293
+      ],
+      "frame_id": 76,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:27.883",
+      "epoch": 1784157087.883204
+    },
+    {
+      "uid": "9be5e352",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8257,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        108,
+        356,
+        480
+      ],
+      "center": [
+        188,
+        294
+      ],
+      "frame_id": 75,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:27.619",
+      "epoch": 1784157087.6193411
+    },
+    {
+      "uid": "69c3b1df",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.6892,
+      "priority": "BREACH",
+      "bbox": [
+        11,
+        108,
+        354,
+        478
+      ],
+      "center": [
+        182,
+        293
+      ],
+      "frame_id": 74,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:27.347",
+      "epoch": 1784157087.3476741
+    },
+    {
+      "uid": "a5927502",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.832,
+      "priority": "BREACH",
+      "bbox": [
+        17,
+        108,
+        353,
+        479
+      ],
+      "center": [
+        185,
+        293
+      ],
+      "frame_id": 73,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:27.062",
+      "epoch": 1784157087.0623984
+    },
+    {
+      "uid": "4ab4cf24",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8474,
+      "priority": "BREACH",
+      "bbox": [
+        26,
+        109,
+        355,
+        479
+      ],
+      "center": [
+        190,
+        294
+      ],
+      "frame_id": 72,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:26.797",
+      "epoch": 1784157086.7972128
+    },
+    {
+      "uid": "861dcf2c",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8554,
+      "priority": "BREACH",
+      "bbox": [
+        9,
+        109,
+        354,
+        479
+      ],
+      "center": [
+        181,
+        294
+      ],
+      "frame_id": 71,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:26.534",
+      "epoch": 1784157086.5349321
+    },
+    {
+      "uid": "0baa888e",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8487,
+      "priority": "BREACH",
+      "bbox": [
+        19,
+        109,
+        353,
+        478
+      ],
+      "center": [
+        186,
+        293
+      ],
+      "frame_id": 70,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:26.265",
+      "epoch": 1784157086.265778
+    },
+    {
+      "uid": "55e8e4b6",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8159,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        109,
+        352,
+        478
+      ],
+      "center": [
+        185,
+        293
+      ],
+      "frame_id": 69,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:25.992",
+      "epoch": 1784157085.9925778
+    },
+    {
+      "uid": "f209f32d",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8004,
+      "priority": "BREACH",
+      "bbox": [
+        12,
+        110,
+        355,
+        478
+      ],
+      "center": [
+        183,
+        294
+      ],
+      "frame_id": 68,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:25.714",
+      "epoch": 1784157085.7148077
+    },
+    {
+      "uid": "deef1dec",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8217,
+      "priority": "BREACH",
+      "bbox": [
+        11,
+        109,
+        354,
+        478
+      ],
+      "center": [
+        182,
+        293
+      ],
+      "frame_id": 67,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:25.454",
+      "epoch": 1784157085.4548345
+    },
+    {
+      "uid": "0045d4b4",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8525,
+      "priority": "BREACH",
+      "bbox": [
+        14,
+        110,
+        352,
+        479
+      ],
+      "center": [
+        183,
+        294
+      ],
+      "frame_id": 66,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:25.187",
+      "epoch": 1784157085.1878316
+    },
+    {
+      "uid": "cd21d451",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8913,
+      "priority": "BREACH",
+      "bbox": [
+        16,
+        109,
+        355,
+        478
+      ],
+      "center": [
+        185,
+        293
+      ],
+      "frame_id": 65,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:24.913",
+      "epoch": 1784157084.9137814
+    },
+    {
+      "uid": "41815414",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8315,
+      "priority": "BREACH",
+      "bbox": [
+        25,
+        108,
+        352,
+        478
+      ],
+      "center": [
+        188,
+        293
+      ],
+      "frame_id": 64,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:24.639",
+      "epoch": 1784157084.6392334
+    },
+    {
+      "uid": "de619eed",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8696,
+      "priority": "BREACH",
+      "bbox": [
+        17,
+        108,
+        357,
+        479
+      ],
+      "center": [
+        187,
+        293
+      ],
+      "frame_id": 63,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:24.365",
+      "epoch": 1784157084.365771
+    },
+    {
+      "uid": "55a4dd1d",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8704,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        108,
+        362,
+        479
+      ],
+      "center": [
+        191,
+        293
+      ],
+      "frame_id": 62,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:24.104",
+      "epoch": 1784157084.1044993
+    },
+    {
+      "uid": "f4d2d044",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8632,
+      "priority": "BREACH",
+      "bbox": [
+        21,
+        108,
+        362,
+        479
+      ],
+      "center": [
+        191,
+        293
+      ],
+      "frame_id": 61,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:23.837",
+      "epoch": 1784157083.8377006
+    },
+    {
+      "uid": "8e417e89",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8739,
+      "priority": "BREACH",
+      "bbox": [
+        40,
+        108,
+        364,
+        479
+      ],
+      "center": [
+        202,
+        293
+      ],
+      "frame_id": 60,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:23.562",
+      "epoch": 1784157083.5621312
+    },
+    {
+      "uid": "cab88e89",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.846,
+      "priority": "BREACH",
+      "bbox": [
+        13,
+        108,
+        361,
+        479
+      ],
+      "center": [
+        187,
+        293
+      ],
+      "frame_id": 59,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:23.297",
+      "epoch": 1784157083.2973173
+    },
+    {
+      "uid": "8620146a",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8563,
+      "priority": "BREACH",
+      "bbox": [
+        13,
+        108,
+        361,
+        478
+      ],
+      "center": [
+        187,
+        293
+      ],
+      "frame_id": 58,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:23.030",
+      "epoch": 1784157083.0307107
+    },
+    {
+      "uid": "85db1829",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8712,
+      "priority": "BREACH",
+      "bbox": [
+        14,
+        107,
+        361,
+        479
+      ],
+      "center": [
+        187,
+        293
+      ],
+      "frame_id": 57,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:22.773",
+      "epoch": 1784157082.773417
+    },
+    {
+      "uid": "961eeef0",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.866,
+      "priority": "BREACH",
+      "bbox": [
+        17,
+        107,
+        360,
+        479
+      ],
+      "center": [
+        188,
+        293
+      ],
+      "frame_id": 56,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:22.501",
+      "epoch": 1784157082.501818
+    },
+    {
+      "uid": "cd973298",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8749,
+      "priority": "BREACH",
+      "bbox": [
+        24,
+        108,
+        362,
+        479
+      ],
+      "center": [
+        193,
+        293
+      ],
+      "frame_id": 55,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:22.228",
+      "epoch": 1784157082.228508
+    },
+    {
+      "uid": "acb8a189",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8572,
+      "priority": "BREACH",
+      "bbox": [
+        19,
+        107,
+        362,
+        479
+      ],
+      "center": [
+        190,
+        293
+      ],
+      "frame_id": 54,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:21.947",
+      "epoch": 1784157081.9479487
+    },
+    {
+      "uid": "342fd7bd",
+      "label": "Suitcase",
+      "class_id": 28,
+      "confidence": 0.499,
+      "priority": "SUSPICIOUS",
+      "bbox": [
+        0,
+        231,
+        184,
+        478
+      ],
+      "center": [
+        92,
+        354
+      ],
+      "frame_id": 53,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:21.678",
+      "epoch": 1784157081.6788282
+    },
+    {
+      "uid": "387ef70d",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8805,
+      "priority": "BREACH",
+      "bbox": [
+        21,
+        106,
+        361,
+        479
+      ],
+      "center": [
+        191,
+        292
+      ],
+      "frame_id": 53,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:21.678",
+      "epoch": 1784157081.6786427
+    },
+    {
+      "uid": "eeae2fe3",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8688,
+      "priority": "BREACH",
+      "bbox": [
+        14,
+        106,
+        361,
+        479
+      ],
+      "center": [
+        187,
+        292
+      ],
+      "frame_id": 52,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:21.417",
+      "epoch": 1784157081.4172158
+    },
+    {
+      "uid": "0bd0b034",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8543,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        107,
+        358,
+        479
+      ],
+      "center": [
+        189,
+        293
+      ],
+      "frame_id": 51,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:21.156",
+      "epoch": 1784157081.1562247
+    },
+    {
+      "uid": "0b1c7fae",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8206,
+      "priority": "BREACH",
+      "bbox": [
+        28,
+        107,
+        357,
+        479
+      ],
+      "center": [
+        192,
+        293
+      ],
+      "frame_id": 50,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:20.887",
+      "epoch": 1784157080.8876736
+    },
+    {
+      "uid": "2f27c678",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8041,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        107,
+        337,
+        479
+      ],
+      "center": [
+        178,
+        293
+      ],
+      "frame_id": 49,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:20.619",
+      "epoch": 1784157080.6194315
+    },
+    {
+      "uid": "813ef2b0",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7142,
+      "priority": "BREACH",
+      "bbox": [
+        24,
+        111,
+        338,
+        479
+      ],
+      "center": [
+        181,
+        295
+      ],
+      "frame_id": 48,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:20.376",
+      "epoch": 1784157080.3768747
+    },
+    {
+      "uid": "f413e019",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.6024,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        109,
+        336,
+        478
+      ],
+      "center": [
+        178,
+        293
+      ],
+      "frame_id": 47,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:20.135",
+      "epoch": 1784157080.1354752
+    },
+    {
+      "uid": "047c8ed7",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.6482,
+      "priority": "BREACH",
+      "bbox": [
+        15,
+        105,
+        340,
+        479
+      ],
+      "center": [
+        177,
+        292
+      ],
+      "frame_id": 46,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:19.885",
+      "epoch": 1784157079.8859305
+    },
+    {
+      "uid": "08de8948",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8592,
+      "priority": "BREACH",
+      "bbox": [
+        3,
+        107,
+        347,
+        478
+      ],
+      "center": [
+        175,
+        292
+      ],
+      "frame_id": 45,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:19.622",
+      "epoch": 1784157079.6226554
+    },
+    {
+      "uid": "3527f865",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8556,
+      "priority": "BREACH",
+      "bbox": [
+        14,
+        109,
+        357,
+        479
+      ],
+      "center": [
+        185,
+        294
+      ],
+      "frame_id": 44,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:19.372",
+      "epoch": 1784157079.3727014
+    },
+    {
+      "uid": "76ad734e",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.6681,
+      "priority": "BREACH",
+      "bbox": [
+        19,
+        106,
+        356,
+        479
+      ],
+      "center": [
+        187,
+        292
+      ],
+      "frame_id": 43,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:19.091",
+      "epoch": 1784157079.0911229
+    },
+    {
+      "uid": "294be3ee",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8176,
+      "priority": "BREACH",
+      "bbox": [
+        16,
+        108,
+        356,
+        479
+      ],
+      "center": [
+        186,
+        293
+      ],
+      "frame_id": 42,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:18.827",
+      "epoch": 1784157078.8272479
+    },
+    {
+      "uid": "474aa4f7",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.5638,
+      "priority": "BREACH",
+      "bbox": [
+        15,
+        117,
+        352,
+        479
+      ],
+      "center": [
+        183,
+        298
+      ],
+      "frame_id": 41,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:18.584",
+      "epoch": 1784157078.5843492
+    },
+    {
+      "uid": "942efa98",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.732,
+      "priority": "BREACH",
+      "bbox": [
+        6,
+        108,
+        348,
+        479
+      ],
+      "center": [
+        177,
+        293
+      ],
+      "frame_id": 40,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:18.335",
+      "epoch": 1784157078.3352332
+    },
+    {
+      "uid": "aa719a79",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8116,
+      "priority": "BREACH",
+      "bbox": [
+        8,
+        108,
+        346,
+        479
+      ],
+      "center": [
+        177,
+        293
+      ],
+      "frame_id": 39,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:18.090",
+      "epoch": 1784157078.0902052
+    },
+    {
+      "uid": "4889d49f",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8765,
+      "priority": "BREACH",
+      "bbox": [
+        15,
+        106,
+        342,
+        478
+      ],
+      "center": [
+        178,
+        292
+      ],
+      "frame_id": 37,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:17.525",
+      "epoch": 1784157077.5251179
+    },
+    {
+      "uid": "4c1b0e3f",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8774,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        106,
+        344,
+        478
+      ],
+      "center": [
+        182,
+        292
+      ],
+      "frame_id": 36,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:17.275",
+      "epoch": 1784157077.2754557
+    },
+    {
+      "uid": "9fec0acc",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7398,
+      "priority": "BREACH",
+      "bbox": [
+        0,
+        105,
+        344,
+        478
+      ],
+      "center": [
+        172,
+        291
+      ],
+      "frame_id": 35,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:17.010",
+      "epoch": 1784157077.0105731
+    },
+    {
+      "uid": "d5238ebc",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7741,
+      "priority": "BREACH",
+      "bbox": [
+        8,
+        106,
+        345,
+        479
+      ],
+      "center": [
+        176,
+        292
+      ],
+      "frame_id": 34,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:16.724",
+      "epoch": 1784157076.724634
+    },
+    {
+      "uid": "525fe538",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7723,
+      "priority": "BREACH",
+      "bbox": [
+        5,
+        106,
+        344,
+        479
+      ],
+      "center": [
+        174,
+        292
+      ],
+      "frame_id": 33,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:16.130",
+      "epoch": 1784157076.1304884
+    },
+    {
+      "uid": "78285acd",
+      "label": "Bag",
+      "class_id": 24,
+      "confidence": 0.5659,
+      "priority": "SUSPICIOUS",
+      "bbox": [
+        21,
+        247,
+        236,
+        479
+      ],
+      "center": [
+        128,
+        363
+      ],
+      "frame_id": 32,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:15.817",
+      "epoch": 1784157075.8174043
+    },
+    {
+      "uid": "56d6fe09",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7737,
+      "priority": "BREACH",
+      "bbox": [
+        1,
+        105,
+        343,
+        479
+      ],
+      "center": [
+        172,
+        292
+      ],
+      "frame_id": 32,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:15.817",
+      "epoch": 1784157075.8171504
+    },
+    {
+      "uid": "c230fb58",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7806,
+      "priority": "BREACH",
+      "bbox": [
+        12,
+        104,
+        344,
+        479
+      ],
+      "center": [
+        178,
+        291
+      ],
+      "frame_id": 31,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:15.538",
+      "epoch": 1784157075.538679
+    },
+    {
+      "uid": "e04e3849",
+      "label": "Bag",
+      "class_id": 24,
+      "confidence": 0.491,
+      "priority": "SUSPICIOUS",
+      "bbox": [
+        24,
+        248,
+        235,
+        479
+      ],
+      "center": [
+        129,
+        363
+      ],
+      "frame_id": 30,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:15.112",
+      "epoch": 1784157075.1128762
+    },
+    {
+      "uid": "19aa3ac2",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8116,
+      "priority": "BREACH",
+      "bbox": [
+        5,
+        105,
+        342,
+        478
+      ],
+      "center": [
+        173,
+        291
+      ],
+      "frame_id": 30,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:15.112",
+      "epoch": 1784157075.1126835
+    },
+    {
+      "uid": "015fc6a4",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8423,
+      "priority": "BREACH",
+      "bbox": [
+        4,
+        105,
+        341,
+        478
+      ],
+      "center": [
+        172,
+        291
+      ],
+      "frame_id": 29,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:14.477",
+      "epoch": 1784157074.4770472
+    },
+    {
+      "uid": "d4930ed8",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8072,
+      "priority": "BREACH",
+      "bbox": [
+        6,
+        107,
+        351,
+        478
+      ],
+      "center": [
+        178,
+        292
+      ],
+      "frame_id": 28,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:12.880",
+      "epoch": 1784157072.880666
+    },
+    {
+      "uid": "f29a1ce8",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7342,
+      "priority": "BREACH",
+      "bbox": [
+        20,
+        113,
+        373,
+        479
+      ],
+      "center": [
+        196,
+        296
+      ],
+      "frame_id": 27,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:12.417",
+      "epoch": 1784157072.4175951
+    },
+    {
+      "uid": "aca7aa53",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7579,
+      "priority": "BREACH",
+      "bbox": [
+        13,
+        111,
+        372,
+        479
+      ],
+      "center": [
+        192,
+        295
+      ],
+      "frame_id": 26,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:11.694",
+      "epoch": 1784157071.6940992
+    },
+    {
+      "uid": "068e06d8",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8094,
+      "priority": "BREACH",
+      "bbox": [
+        19,
+        110,
+        371,
+        479
+      ],
+      "center": [
+        195,
+        294
+      ],
+      "frame_id": 25,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:10.332",
+      "epoch": 1784157070.332669
+    },
+    {
+      "uid": "13492a5c",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.5964,
+      "priority": "BREACH",
+      "bbox": [
+        29,
+        108,
+        371,
+        479
+      ],
+      "center": [
+        200,
+        293
+      ],
+      "frame_id": 24,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:09.538",
+      "epoch": 1784157069.5386205
+    },
+    {
+      "uid": "675cd465",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8757,
+      "priority": "BREACH",
+      "bbox": [
+        27,
+        106,
+        384,
+        479
+      ],
+      "center": [
+        205,
+        292
+      ],
+      "frame_id": 23,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:07.882",
+      "epoch": 1784157067.8829067
+    },
+    {
+      "uid": "2c4f5945",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8685,
+      "priority": "BREACH",
+      "bbox": [
+        9,
+        106,
+        384,
+        479
+      ],
+      "center": [
+        196,
+        292
+      ],
+      "frame_id": 22,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:07.430",
+      "epoch": 1784157067.4307044
+    },
+    {
+      "uid": "26b4654f",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8737,
+      "priority": "BREACH",
+      "bbox": [
+        11,
+        107,
+        386,
+        479
+      ],
+      "center": [
+        198,
+        293
+      ],
+      "frame_id": 21,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:07.127",
+      "epoch": 1784157067.1273553
+    },
+    {
+      "uid": "a5a756ff",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8627,
+      "priority": "BREACH",
+      "bbox": [
+        37,
+        106,
+        387,
+        480
+      ],
+      "center": [
+        212,
+        293
+      ],
+      "frame_id": 20,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:06.848",
+      "epoch": 1784157066.848467
+    },
+    {
+      "uid": "124b9599",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8493,
+      "priority": "BREACH",
+      "bbox": [
+        53,
+        106,
+        387,
+        480
+      ],
+      "center": [
+        220,
+        293
+      ],
+      "frame_id": 19,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:06.575",
+      "epoch": 1784157066.5753531
+    },
+    {
+      "uid": "365bb92d",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8874,
+      "priority": "BREACH",
+      "bbox": [
+        32,
+        107,
+        386,
+        479
+      ],
+      "center": [
+        209,
+        293
+      ],
+      "frame_id": 18,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:06.313",
+      "epoch": 1784157066.3135476
+    },
+    {
+      "uid": "4b88a8dc",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.888,
+      "priority": "BREACH",
+      "bbox": [
+        27,
+        106,
+        386,
+        479
+      ],
+      "center": [
+        206,
+        292
+      ],
+      "frame_id": 17,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:06.046",
+      "epoch": 1784157066.0466626
+    },
+    {
+      "uid": "3752f07b",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8725,
+      "priority": "BREACH",
+      "bbox": [
+        21,
+        106,
+        387,
+        479
+      ],
+      "center": [
+        204,
+        292
+      ],
+      "frame_id": 16,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:05.783",
+      "epoch": 1784157065.7830324
+    },
+    {
+      "uid": "8d2fcd78",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8764,
+      "priority": "BREACH",
+      "bbox": [
+        10,
+        105,
+        386,
+        479
+      ],
+      "center": [
+        198,
+        292
+      ],
+      "frame_id": 15,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:05.499",
+      "epoch": 1784157065.4993932
+    },
+    {
+      "uid": "fa7b7cb7",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8792,
+      "priority": "BREACH",
+      "bbox": [
+        14,
+        105,
+        386,
+        479
+      ],
+      "center": [
+        200,
+        292
+      ],
+      "frame_id": 14,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:05.240",
+      "epoch": 1784157065.240357
+    },
+    {
+      "uid": "4e0446b8",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.873,
+      "priority": "BREACH",
+      "bbox": [
+        8,
+        105,
+        386,
+        479
+      ],
+      "center": [
+        197,
+        292
+      ],
+      "frame_id": 13,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:04.979",
+      "epoch": 1784157064.9791484
+    },
+    {
+      "uid": "128af0dc",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8931,
+      "priority": "BREACH",
+      "bbox": [
+        19,
+        106,
+        388,
+        479
+      ],
+      "center": [
+        203,
+        292
+      ],
+      "frame_id": 12,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:04.715",
+      "epoch": 1784157064.7156084
+    },
+    {
+      "uid": "4450bfd2",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8998,
+      "priority": "BREACH",
+      "bbox": [
+        5,
+        106,
+        386,
+        479
+      ],
+      "center": [
+        195,
+        292
+      ],
+      "frame_id": 11,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:04.455",
+      "epoch": 1784157064.4559233
+    },
+    {
+      "uid": "6043d794",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.9017,
+      "priority": "BREACH",
+      "bbox": [
+        6,
+        104,
+        387,
+        479
+      ],
+      "center": [
+        196,
+        291
+      ],
+      "frame_id": 10,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:04.175",
+      "epoch": 1784157064.1750212
+    },
+    {
+      "uid": "3db27e91",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8814,
+      "priority": "BREACH",
+      "bbox": [
+        9,
+        105,
+        386,
+        479
+      ],
+      "center": [
+        197,
+        292
+      ],
+      "frame_id": 9,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:03.899",
+      "epoch": 1784157063.8991356
+    },
+    {
+      "uid": "20196bb5",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8876,
+      "priority": "BREACH",
+      "bbox": [
+        5,
+        105,
+        387,
+        479
+      ],
+      "center": [
+        196,
+        292
+      ],
+      "frame_id": 8,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:03.644",
+      "epoch": 1784157063.6444466
+    },
+    {
+      "uid": "4c4fd6a6",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8906,
+      "priority": "BREACH",
+      "bbox": [
+        2,
+        105,
+        389,
+        479
+      ],
+      "center": [
+        195,
+        292
+      ],
+      "frame_id": 7,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:03.367",
+      "epoch": 1784157063.3679748
+    },
+    {
+      "uid": "6ea79ce2",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.876,
+      "priority": "BREACH",
+      "bbox": [
+        5,
+        106,
+        388,
+        479
+      ],
+      "center": [
+        196,
+        292
+      ],
+      "frame_id": 6,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:03.085",
+      "epoch": 1784157063.0852458
+    },
+    {
+      "uid": "a6fc662e",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8538,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        106,
+        389,
+        480
+      ],
+      "center": [
+        203,
+        293
+      ],
+      "frame_id": 5,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:02.723",
+      "epoch": 1784157062.7231112
+    },
+    {
+      "uid": "c02e7ce7",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8383,
+      "priority": "BREACH",
+      "bbox": [
+        2,
+        106,
+        464,
+        480
+      ],
+      "center": [
+        233,
+        293
+      ],
+      "frame_id": 4,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:02.256",
+      "epoch": 1784157062.25675
+    },
+    {
+      "uid": "59858be5",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8886,
+      "priority": "BREACH",
+      "bbox": [
+        23,
+        103,
+        356,
+        480
+      ],
+      "center": [
+        189,
+        291
+      ],
+      "frame_id": 3,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:01.890",
+      "epoch": 1784157061.890114
+    },
+    {
+      "uid": "301c6860",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8131,
+      "priority": "BREACH",
+      "bbox": [
+        4,
+        99,
+        433,
+        480
+      ],
+      "center": [
+        218,
+        289
+      ],
+      "frame_id": 2,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:01.328",
+      "epoch": 1784157061.328234
+    },
+    {
+      "uid": "9335621c",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7989,
+      "priority": "BREACH",
+      "bbox": [
+        18,
+        100,
+        371,
+        480
+      ],
+      "center": [
+        194,
+        290
+      ],
+      "frame_id": 1,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-16T02:11:00.904",
+      "epoch": 1784157060.9047995
+    }
+  ]
+}

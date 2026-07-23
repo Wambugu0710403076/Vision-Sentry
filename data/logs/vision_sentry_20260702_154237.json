@@ -1,0 +1,551 @@
+{
+  "meta": {
+    "system": "Vision-Sentry",
+    "author": "Victor Dennis Wambugu",
+    "student_id": "DCF-01-0184/2025",
+    "session_start": "2026-07-02T15:39:44",
+    "export_time": "2026-07-02T15:42:37",
+    "total_entries": 25
+  },
+  "summary": {
+    "total_events": 25,
+    "by_priority": {
+      "MONITOR": 13,
+      "AUTHORIZED": 9,
+      "SUSPICIOUS": 3
+    },
+    "by_label": {
+      "Person": 22,
+      "Bag": 3
+    },
+    "avg_confidence": 0.742,
+    "session_start": "2026-07-02T15:39:44"
+  },
+  "events": [
+    {
+      "uid": "603df903",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.6882,
+      "priority": "MONITOR",
+      "bbox": [
+        5,
+        95,
+        580,
+        479
+      ],
+      "center": [
+        292,
+        287
+      ],
+      "frame_id": 22,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:42:34.877",
+      "epoch": 1782996154.8779
+    },
+    {
+      "uid": "2841d26b",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7439,
+      "priority": "MONITOR",
+      "bbox": [
+        6,
+        92,
+        581,
+        479
+      ],
+      "center": [
+        293,
+        285
+      ],
+      "frame_id": 21,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:42:34.616",
+      "epoch": 1782996154.6160436
+    },
+    {
+      "uid": "9630495b",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7551,
+      "priority": "MONITOR",
+      "bbox": [
+        25,
+        96,
+        619,
+        479
+      ],
+      "center": [
+        322,
+        287
+      ],
+      "frame_id": 20,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:42:34.349",
+      "epoch": 1782996154.3490794
+    },
+    {
+      "uid": "46a41289",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.6829,
+      "priority": "MONITOR",
+      "bbox": [
+        12,
+        95,
+        581,
+        479
+      ],
+      "center": [
+        296,
+        287
+      ],
+      "frame_id": 19,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:42:34.098",
+      "epoch": 1782996154.0984585
+    },
+    {
+      "uid": "0dafe5bf",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7533,
+      "priority": "MONITOR",
+      "bbox": [
+        19,
+        92,
+        594,
+        479
+      ],
+      "center": [
+        306,
+        285
+      ],
+      "frame_id": 18,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:42:33.822",
+      "epoch": 1782996153.8221855
+    },
+    {
+      "uid": "6fcb3b3b",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7758,
+      "priority": "MONITOR",
+      "bbox": [
+        19,
+        98,
+        623,
+        479
+      ],
+      "center": [
+        321,
+        288
+      ],
+      "frame_id": 17,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:42:33.549",
+      "epoch": 1782996153.5495207
+    },
+    {
+      "uid": "415c0809",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7263,
+      "priority": "MONITOR",
+      "bbox": [
+        33,
+        98,
+        618,
+        479
+      ],
+      "center": [
+        325,
+        288
+      ],
+      "frame_id": 16,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:42:33.272",
+      "epoch": 1782996153.2720745
+    },
+    {
+      "uid": "c84a26e1",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.85,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        4,
+        62,
+        629,
+        479
+      ],
+      "center": [
+        316,
+        270
+      ],
+      "frame_id": 15,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:46.588",
+      "epoch": 1782996046.5888867
+    },
+    {
+      "uid": "f339d5da",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.822,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        1,
+        62,
+        630,
+        479
+      ],
+      "center": [
+        315,
+        270
+      ],
+      "frame_id": 14,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:46.331",
+      "epoch": 1782996046.3318057
+    },
+    {
+      "uid": "758af2c4",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.717,
+      "priority": "MONITOR",
+      "bbox": [
+        5,
+        64,
+        630,
+        479
+      ],
+      "center": [
+        317,
+        271
+      ],
+      "frame_id": 13,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:46.072",
+      "epoch": 1782996046.0727377
+    },
+    {
+      "uid": "2736cb71",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8341,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        1,
+        61,
+        629,
+        479
+      ],
+      "center": [
+        315,
+        270
+      ],
+      "frame_id": 12,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:45.799",
+      "epoch": 1782996045.799553
+    },
+    {
+      "uid": "fdb7183e",
+      "label": "Bag",
+      "class_id": 24,
+      "confidence": 0.4999,
+      "priority": "SUSPICIOUS",
+      "bbox": [
+        22,
+        318,
+        247,
+        479
+      ],
+      "center": [
+        134,
+        398
+      ],
+      "frame_id": 11,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:45.533",
+      "epoch": 1782996045.5335958
+    },
+    {
+      "uid": "0809567f",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7455,
+      "priority": "MONITOR",
+      "bbox": [
+        1,
+        61,
+        615,
+        479
+      ],
+      "center": [
+        308,
+        270
+      ],
+      "frame_id": 11,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:45.533",
+      "epoch": 1782996045.5334783
+    },
+    {
+      "uid": "4a53bc41",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7629,
+      "priority": "MONITOR",
+      "bbox": [
+        2,
+        61,
+        620,
+        479
+      ],
+      "center": [
+        311,
+        270
+      ],
+      "frame_id": 10,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:45.276",
+      "epoch": 1782996045.2769408
+    },
+    {
+      "uid": "5cdf77a0",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8352,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        2,
+        60,
+        619,
+        479
+      ],
+      "center": [
+        310,
+        269
+      ],
+      "frame_id": 9,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:45.024",
+      "epoch": 1782996045.0241725
+    },
+    {
+      "uid": "307e1cac",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8594,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        3,
+        62,
+        627,
+        479
+      ],
+      "center": [
+        315,
+        270
+      ],
+      "frame_id": 8,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:44.765",
+      "epoch": 1782996044.7656784
+    },
+    {
+      "uid": "4d0d3502",
+      "label": "Bag",
+      "class_id": 24,
+      "confidence": 0.4774,
+      "priority": "SUSPICIOUS",
+      "bbox": [
+        23,
+        315,
+        244,
+        479
+      ],
+      "center": [
+        133,
+        397
+      ],
+      "frame_id": 7,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:44.478",
+      "epoch": 1782996044.4781208
+    },
+    {
+      "uid": "15cc2bcf",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8443,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        1,
+        60,
+        606,
+        479
+      ],
+      "center": [
+        303,
+        269
+      ],
+      "frame_id": 7,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:44.477",
+      "epoch": 1782996044.477975
+    },
+    {
+      "uid": "55da4df3",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.81,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        0,
+        62,
+        618,
+        479
+      ],
+      "center": [
+        309,
+        270
+      ],
+      "frame_id": 6,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:44.216",
+      "epoch": 1782996044.2160015
+    },
+    {
+      "uid": "e1bf0172",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7395,
+      "priority": "MONITOR",
+      "bbox": [
+        0,
+        64,
+        615,
+        479
+      ],
+      "center": [
+        307,
+        271
+      ],
+      "frame_id": 5,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:43.967",
+      "epoch": 1782996043.9679096
+    },
+    {
+      "uid": "f7a8b297",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.6831,
+      "priority": "MONITOR",
+      "bbox": [
+        0,
+        66,
+        604,
+        479
+      ],
+      "center": [
+        302,
+        272
+      ],
+      "frame_id": 4,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:43.687",
+      "epoch": 1782996043.6870966
+    },
+    {
+      "uid": "52eb02a2",
+      "label": "Bag",
+      "class_id": 24,
+      "confidence": 0.4849,
+      "priority": "SUSPICIOUS",
+      "bbox": [
+        16,
+        322,
+        240,
+        479
+      ],
+      "center": [
+        128,
+        400
+      ],
+      "frame_id": 3,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:39.633",
+      "epoch": 1782996039.6338775
+    },
+    {
+      "uid": "c6415bf0",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8601,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        3,
+        61,
+        628,
+        479
+      ],
+      "center": [
+        315,
+        270
+      ],
+      "frame_id": 3,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:39.633",
+      "epoch": 1782996039.6337645
+    },
+    {
+      "uid": "d60e0b89",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.7437,
+      "priority": "MONITOR",
+      "bbox": [
+        10,
+        64,
+        631,
+        479
+      ],
+      "center": [
+        320,
+        271
+      ],
+      "frame_id": 2,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:39.353",
+      "epoch": 1782996039.3537557
+    },
+    {
+      "uid": "71789466",
+      "label": "Person",
+      "class_id": 0,
+      "confidence": 0.8567,
+      "priority": "AUTHORIZED",
+      "bbox": [
+        0,
+        61,
+        624,
+        479
+      ],
+      "center": [
+        312,
+        270
+      ],
+      "frame_id": 1,
+      "camera_id": "CAM-01",
+      "timestamp": "2026-07-02T15:40:38.961",
+      "epoch": 1782996038.961261
+    }
+  ]
+}
