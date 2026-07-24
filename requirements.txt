@@ -5,7 +5,7 @@
 ultralytics>=8.0.0          # YOLOv8 — install separately if GPU not available
 opencv-python>=4.8.0        # video capture + frame processing
 Pillow>=10.0.0              # OpenCV→Tkinter image bridge
-
+gunicorn
 # Optional: GPU acceleration
 # torch>=2.0.0              # auto-installed with ultralytics on GPU machines
 # torchvision>=0.15.0
